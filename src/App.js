@@ -232,7 +232,7 @@ class DraftJsPlaygroundContainer extends Component {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://github.com/facebook/draft-js">
+                  href="https://github.com/allenyinx/airportal">
                   GitHub
                 </a>
               </li>
