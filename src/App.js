@@ -65,8 +65,8 @@ const theme = {
 const baseRawContent = {
   blocks: [
     {
-      key: 'A',
-      text: 'Hello world',
+      key: 'customInput',
+      text: 'Hello world for Airta Portal',
       type: 'header-one',
     },
   ],

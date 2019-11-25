@@ -166,14 +166,14 @@ class StyleButton extends React.Component {
 }
 
 const BLOCK_TYPES = [
-  {label: 'H1', style: 'header-one'},
-  {label: 'H2', style: 'header-two'},
-  {label: 'H3', style: 'header-three'},
-  {label: 'H4', style: 'header-four'},
-  {label: 'H5', style: 'header-five'},
-  {label: 'H6', style: 'header-six'},
+  {label: 'Title', style: 'header-one'},
+  {label: 'Body', style: 'header-two'},
+  {label: 'Function', style: 'header-three'},
+  {label: 'Action', style: 'header-four'},
+  {label: 'Value', style: 'header-five'},
+  {label: 'Insert', style: 'header-six'},
   {label: 'Blockquote', style: 'blockquote'},
-  {label: 'UL', style: 'unordered-list-item'},
+  {label: 'Sample', style: 'unordered-list-item'},
   {label: 'OL', style: 'ordered-list-item'},
   {label: 'Code Block', style: 'code-block'},
 ];
